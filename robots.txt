@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikeqiica.github.io/Bno/sitemap_index.txt
+Sitemap: https://ikeqiica.github.io/Lha/sitemap_index.txt
+Sitemap: https://ikeqiica.github.io/vwc/sitemap_index.txt
+Sitemap: https://ikeqiica.github.io/wBf/sitemap_index.txt
